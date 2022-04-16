@@ -1,0 +1,212 @@
+2022-04-14 11:15:23,844  INFO [main] ss:44 - URL opened
+2022-04-14 11:15:23,979  INFO [main] ss:49 - Username entered
+2022-04-14 11:15:24,052  INFO [main] ss:53 - password entered
+2022-04-14 11:15:24,362  INFO [main] ss:57 - succesfully logged in
+2022-04-14 11:15:29,460  INFO [main] ss:63 - Pin entered
+2022-04-14 11:15:29,715  INFO [main] ss:65 - welcome to homepage
+2022-04-14 12:41:52,654  INFO [TestNG-test=Test-1] ss:42 - url entered
+2022-04-14 12:41:54,773  INFO [TestNG-test=Test-2] ss:44 - URL opened
+2022-04-14 12:41:54,874  INFO [TestNG-test=Test-2] ss:49 - Username entered
+2022-04-14 12:41:55,022  INFO [TestNG-test=Test-2] ss:53 - password entered
+2022-04-14 12:41:55,113  INFO [TestNG-test=Test-2] ss:57 - succesfully logged in
+2022-04-14 12:42:00,360  INFO [TestNG-test=Test-2] ss:63 - Pin entered
+2022-04-14 12:42:00,542  INFO [TestNG-test=Test-2] ss:65 - welcome to homepage
+2022-04-14 12:43:30,227  INFO [TestNG-test=Test-1] ss:42 - url entered
+2022-04-14 12:43:33,369  INFO [TestNG-test=Test-2] ss:44 - URL opened
+2022-04-14 12:43:33,479  INFO [TestNG-test=Test-2] ss:49 - Username entered
+2022-04-14 12:43:33,573  INFO [TestNG-test=Test-2] ss:53 - password entered
+2022-04-14 12:43:33,907  INFO [TestNG-test=Test-2] ss:57 - succesfully logged in
+2022-04-14 12:43:38,981  INFO [TestNG-test=Test-2] ss:63 - Pin entered
+2022-04-14 12:43:42,491  INFO [TestNG-test=Test-2] ss:65 - welcome to homepage
+2022-04-14 12:46:30,116  INFO [TestNG-test=Test-1] ss:43 - url entered
+2022-04-14 12:46:34,065  INFO [TestNG-test=Test-2] ss:45 - URL opened
+2022-04-14 12:46:34,175  INFO [TestNG-test=Test-2] ss:50 - Username entered
+2022-04-14 12:46:34,321  INFO [TestNG-test=Test-2] ss:54 - password entered
+2022-04-14 12:46:34,693  INFO [TestNG-test=Test-2] ss:58 - succesfully logged in
+2022-04-14 12:46:39,752  INFO [TestNG-test=Test-2] ss:64 - Pin entered
+2022-04-14 12:46:42,295  INFO [TestNG-test=Test-2] ss:66 - welcome to homepage
+2022-04-14 12:50:59,590  INFO [main] ss:43 - url entered
+2022-04-14 12:51:14,244  INFO [main] ss:45 - URL opened
+2022-04-14 12:51:14,335  INFO [main] ss:50 - Username entered
+2022-04-14 12:51:14,462  INFO [main] ss:54 - password entered
+2022-04-14 12:51:14,569  INFO [main] ss:58 - succesfully logged in
+2022-04-14 12:51:19,655  INFO [main] ss:64 - Pin entered
+2022-04-14 12:51:19,722  INFO [main] ss:66 - welcome to homepage
+2022-04-14 12:51:27,786  INFO [main] ss:43 - url entered
+2022-04-14 12:51:47,020  INFO [main] ss:45 - URL opened
+2022-04-14 12:51:47,105  INFO [main] ss:50 - Username entered
+2022-04-14 12:51:47,205  INFO [main] ss:54 - password entered
+2022-04-14 12:51:47,538  INFO [main] ss:58 - succesfully logged in
+2022-04-14 12:51:52,636  INFO [main] ss:64 - Pin entered
+2022-04-14 12:51:54,726  INFO [main] ss:66 - welcome to homepage
+2022-04-14 13:02:03,368  INFO [main] ss:45 - URL opened
+2022-04-14 13:02:03,483  INFO [main] ss:50 - Username entered
+2022-04-14 13:02:03,626  INFO [main] ss:54 - password entered
+2022-04-14 13:02:03,709  INFO [main] ss:58 - succesfully logged in
+2022-04-14 13:02:08,795  INFO [main] ss:64 - Pin entered
+2022-04-14 13:02:08,859  INFO [main] ss:66 - welcome to homepage
+2022-04-14 13:02:17,019  INFO [main] ss:43 - url entered
+2022-04-14 13:02:32,197  INFO [main] ss:45 - URL opened
+2022-04-14 13:02:32,288  INFO [main] ss:50 - Username entered
+2022-04-14 13:02:32,411  INFO [main] ss:54 - password entered
+2022-04-14 13:02:32,494  INFO [main] ss:58 - succesfully logged in
+2022-04-14 13:02:37,571  INFO [main] ss:64 - Pin entered
+2022-04-14 13:02:37,634  INFO [main] ss:66 - welcome to homepage
+2022-04-14 13:03:08,559  INFO [main] ss:45 - URL opened
+2022-04-14 13:03:08,674  INFO [main] ss:50 - Username entered
+2022-04-14 13:03:08,806  INFO [main] ss:54 - password entered
+2022-04-14 13:03:08,900  INFO [main] ss:58 - succesfully logged in
+2022-04-14 13:03:13,982  INFO [main] ss:64 - Pin entered
+2022-04-14 13:03:14,045  INFO [main] ss:66 - welcome to homepage
+2022-04-14 13:03:22,341  INFO [main] ss:43 - url entered
+2022-04-14 13:03:36,637  INFO [main] ss:45 - URL opened
+2022-04-14 13:03:36,752  INFO [main] ss:50 - Username entered
+2022-04-14 13:03:36,878  INFO [main] ss:54 - password entered
+2022-04-14 13:03:37,010  INFO [main] ss:58 - succesfully logged in
+2022-04-14 13:03:42,175  INFO [main] ss:64 - Pin entered
+2022-04-14 13:03:42,243  INFO [main] ss:66 - welcome to homepage
+2022-04-14 13:04:31,141  INFO [main] ss:45 - URL opened
+2022-04-14 13:04:31,250  INFO [main] ss:50 - Username entered
+2022-04-14 13:04:31,401  INFO [main] ss:54 - password entered
+2022-04-14 13:04:31,489  INFO [main] ss:58 - succesfully logged in
+2022-04-14 13:04:36,567  INFO [main] ss:64 - Pin entered
+2022-04-14 13:04:36,628  INFO [main] ss:66 - welcome to homepage
+2022-04-14 13:04:44,549  INFO [main] ss:43 - url entered
+2022-04-14 13:05:00,736  INFO [main] ss:45 - URL opened
+2022-04-14 13:05:00,829  INFO [main] ss:50 - Username entered
+2022-04-14 13:05:00,980  INFO [main] ss:54 - password entered
+2022-04-14 13:05:01,064  INFO [main] ss:58 - succesfully logged in
+2022-04-14 13:05:06,148  INFO [main] ss:64 - Pin entered
+2022-04-14 13:05:06,207  INFO [main] ss:66 - welcome to homepage
+2022-04-14 13:05:17,990  INFO [main] ss:45 - URL opened
+2022-04-14 13:05:18,081  INFO [main] ss:50 - Username entered
+2022-04-14 13:05:18,148  INFO [main] ss:54 - password entered
+2022-04-14 13:05:18,460  INFO [main] ss:58 - succesfully logged in
+2022-04-14 13:05:23,556  INFO [main] ss:64 - Pin entered
+2022-04-14 13:05:25,730  INFO [main] ss:66 - welcome to homepage
+2022-04-14 13:05:54,499  INFO [main] ss:43 - url entered
+2022-04-14 13:06:14,643  INFO [main] ss:45 - URL opened
+2022-04-14 13:06:14,714  INFO [main] ss:50 - Username entered
+2022-04-14 13:06:14,765  INFO [main] ss:54 - password entered
+2022-04-14 13:06:15,075  INFO [main] ss:58 - succesfully logged in
+2022-04-14 13:06:20,125  INFO [main] ss:64 - Pin entered
+2022-04-14 13:06:22,370  INFO [main] ss:66 - welcome to homepage
+2022-04-14 13:19:47,128  INFO [main] ss:50 - URL opened
+2022-04-14 13:20:21,209  INFO [main] ss:50 - URL opened
+2022-04-14 13:21:12,662  INFO [main] ss:45 - URL opened
+2022-04-14 13:21:12,796  INFO [main] ss:50 - Username entered
+2022-04-14 13:21:12,948  INFO [main] ss:54 - password entered
+2022-04-14 13:21:13,042  INFO [main] ss:58 - succesfully logged in
+2022-04-14 13:21:18,128  INFO [main] ss:64 - Pin entered
+2022-04-14 13:21:18,217  INFO [main] ss:66 - welcome to homepage
+2022-04-14 13:21:45,567  INFO [main] ss:43 - url entered
+2022-04-14 13:22:02,919  INFO [main] ss:50 - URL opened
+2022-04-14 13:22:23,445  INFO [main] ss:45 - URL opened
+2022-04-14 13:22:23,536  INFO [main] ss:50 - Username entered
+2022-04-14 13:22:23,587  INFO [main] ss:54 - password entered
+2022-04-14 13:22:23,846  INFO [main] ss:58 - succesfully logged in
+2022-04-14 13:22:28,935  INFO [main] ss:64 - Pin entered
+2022-04-14 13:22:31,651  INFO [main] ss:66 - welcome to homepage
+2022-04-14 13:23:11,970  INFO [main] ss:43 - url entered
+2022-04-14 13:23:34,869  INFO [main] ss:50 - URL opened
+2022-04-14 13:25:09,063  INFO [main] ss:50 - URL opened
+2022-04-14 13:26:43,827  INFO [main] ss:50 - URL opened
+2022-04-14 13:28:12,040  INFO [main] ss:50 - URL opened
+2022-04-14 13:29:17,376  INFO [main] ss:50 - URL opened
+2022-04-14 13:29:17,763  INFO [main] ss:55 - Username entered
+2022-04-14 13:29:20,081  INFO [main] ss:59 - password entered
+2022-04-14 13:29:22,296  INFO [main] ss:63 - succesfully logged in
+2022-04-14 13:29:27,580  INFO [main] ss:69 - Pin entered
+2022-04-14 13:29:27,662  INFO [main] ss:71 - welcome to homepage
+2022-04-14 13:31:04,088  INFO [main] ss:50 - URL opened
+2022-04-14 13:31:04,427  INFO [main] ss:55 - Username entered
+2022-04-14 13:31:06,723  INFO [main] ss:59 - password entered
+2022-04-14 13:31:08,948  INFO [main] ss:63 - succesfully logged in
+2022-04-14 13:31:14,147  INFO [main] ss:69 - Pin entered
+2022-04-14 13:31:14,206  INFO [main] ss:71 - welcome to homepage
+2022-04-14 13:32:39,754  INFO [main] ss:50 - URL opened
+2022-04-14 13:32:40,139  INFO [main] ss:55 - Username entered
+2022-04-14 13:32:42,406  INFO [main] ss:59 - password entered
+2022-04-14 13:32:44,652  INFO [main] ss:63 - succesfully logged in
+2022-04-14 13:32:49,857  INFO [main] ss:69 - Pin entered
+2022-04-14 13:32:49,919  INFO [main] ss:71 - welcome to homepage
+2022-04-15 11:39:14,145  INFO [main] ss:55 - URL opened
+2022-04-15 11:39:14,475  INFO [main] ss:60 - Username entered
+2022-04-15 11:39:16,711  INFO [main] ss:64 - password entered
+2022-04-15 11:39:18,914  INFO [main] ss:68 - succesfully logged in
+2022-04-15 11:39:24,114  INFO [main] ss:74 - Pin entered
+2022-04-15 11:39:24,178  INFO [main] ss:76 - welcome to homepage
+2022-04-15 12:37:50,360  INFO [main] ss:47 - URL opened
+2022-04-15 12:37:50,704  INFO [main] ss:52 - Username entered
+2022-04-15 12:37:53,000  INFO [main] ss:56 - password entered
+2022-04-15 12:37:55,259  INFO [main] ss:60 - succesfully logged in
+2022-04-15 12:38:00,478  INFO [main] ss:66 - Pin entered
+2022-04-15 12:38:00,536  INFO [main] ss:68 - welcome to homepage
+2022-04-15 12:40:35,754  INFO [main] ss:47 - URL opened
+2022-04-15 12:40:35,784  INFO [main] ss:47 - URL opened
+2022-04-15 12:40:36,377  INFO [main] ss:52 - Username entered
+2022-04-15 12:40:36,414  INFO [main] ss:52 - Username entered
+2022-04-15 12:40:38,786  INFO [main] ss:56 - password entered
+2022-04-15 12:40:38,868  INFO [main] ss:56 - password entered
+2022-04-15 12:40:41,118  INFO [main] ss:60 - succesfully logged in
+2022-04-15 12:40:41,192  INFO [main] ss:60 - succesfully logged in
+2022-04-15 12:40:46,375  INFO [main] ss:66 - Pin entered
+2022-04-15 12:40:46,472  INFO [main] ss:68 - welcome to homepage
+2022-04-15 12:40:46,508  INFO [main] ss:66 - Pin entered
+2022-04-15 12:40:46,647  INFO [main] ss:68 - welcome to homepage
+2022-04-15 12:41:14,356  INFO [main] ss:47 - URL opened
+2022-04-15 12:41:14,703  INFO [main] ss:52 - Username entered
+2022-04-15 12:41:16,961  INFO [main] ss:56 - password entered
+2022-04-15 12:41:19,182  INFO [main] ss:60 - succesfully logged in
+2022-04-15 12:41:24,402  INFO [main] ss:66 - Pin entered
+2022-04-15 12:41:24,467  INFO [main] ss:68 - welcome to homepage
+2022-04-15 12:51:56,077  INFO [main] ss:47 - URL opened
+2022-04-15 12:51:56,440  INFO [main] ss:52 - Username entered
+2022-04-15 12:51:58,715  INFO [main] ss:56 - password entered
+2022-04-15 12:52:00,945  INFO [main] ss:60 - succesfully logged in
+2022-04-15 12:52:06,163  INFO [main] ss:66 - Pin entered
+2022-04-15 12:52:06,224  INFO [main] ss:68 - welcome to homepage
+2022-04-15 12:53:02,182  INFO [main] ss:47 - URL opened
+2022-04-15 12:53:02,585  INFO [main] ss:52 - Username entered
+2022-04-15 12:53:04,774  INFO [main] ss:56 - password entered
+2022-04-15 12:53:07,142  INFO [main] ss:60 - succesfully logged in
+2022-04-15 12:53:12,282  INFO [main] ss:66 - Pin entered
+2022-04-15 12:53:14,297  INFO [main] ss:68 - welcome to homepage
+2022-04-15 14:53:17,946  INFO [main] ss:47 - URL opened
+2022-04-15 14:53:18,269  INFO [main] ss:52 - Username entered
+2022-04-15 14:53:20,552  INFO [main] ss:56 - password entered
+2022-04-15 14:53:22,786  INFO [main] ss:60 - succesfully logged in
+2022-04-15 14:53:27,984  INFO [main] ss:66 - Pin entered
+2022-04-15 14:53:28,045  INFO [main] ss:68 - welcome to homepage
+2022-04-15 14:53:53,681  INFO [main] ss:47 - URL opened
+2022-04-15 14:53:54,015  INFO [main] ss:52 - Username entered
+2022-04-15 14:53:56,285  INFO [main] ss:56 - password entered
+2022-04-15 14:53:58,486  INFO [main] ss:60 - succesfully logged in
+2022-04-15 14:54:03,697  INFO [main] ss:66 - Pin entered
+2022-04-15 14:54:03,758  INFO [main] ss:68 - welcome to homepage
+2022-04-15 14:54:35,786  INFO [main] ss:47 - URL opened
+2022-04-15 14:54:36,119  INFO [main] ss:52 - Username entered
+2022-04-15 14:54:38,401  INFO [main] ss:56 - password entered
+2022-04-15 14:54:40,605  INFO [main] ss:60 - succesfully logged in
+2022-04-15 14:54:45,810  INFO [main] ss:66 - Pin entered
+2022-04-15 14:54:45,869  INFO [main] ss:68 - welcome to homepage
+2022-04-15 14:55:53,786  INFO [main] ss:47 - URL opened
+2022-04-15 14:55:53,901  INFO [main] ss:52 - Username entered
+2022-04-15 14:55:56,046  INFO [main] ss:56 - password entered
+2022-04-15 14:55:58,193  INFO [main] ss:60 - succesfully logged in
+2022-04-15 14:56:03,277  INFO [main] ss:66 - Pin entered
+2022-04-15 14:56:03,342  INFO [main] ss:68 - welcome to homepage
+2022-04-15 14:56:45,924  INFO [main] ss:47 - URL opened
+2022-04-15 14:56:46,040  INFO [main] ss:52 - Username entered
+2022-04-15 14:56:48,179  INFO [main] ss:56 - password entered
+2022-04-15 14:56:50,339  INFO [main] ss:60 - succesfully logged in
+2022-04-15 14:56:55,426  INFO [main] ss:66 - Pin entered
+2022-04-15 14:56:55,491  INFO [main] ss:68 - welcome to homepage
+2022-04-15 14:58:02,363  INFO [main] ss:47 - URL opened
+2022-04-15 14:58:02,488  INFO [main] ss:52 - Username entered
+2022-04-15 15:00:10,614  INFO [main] ss:47 - URL opened
+2022-04-15 15:00:10,735  INFO [main] ss:52 - Username entered
+2022-04-15 15:00:58,114  INFO [main] ss:47 - URL opened
+2022-04-15 15:00:58,223  INFO [main] ss:52 - Username entered
+2022-04-15 15:28:22,817  INFO [main] ss:47 - URL opened
+2022-04-15 15:28:22,929  INFO [main] ss:52 - Username entered
