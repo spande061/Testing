@@ -28,15 +28,19 @@ public class TC01KiteLoginPageFunctionality {
 	
 public WebDriver driver;
 Logger log;
-	
+	@Parameters("browserName")
 	@BeforeMethod
-	 public void SetUp() throws InterruptedException, IOException {
+	 public void SetUp(String bowserName) throws InterruptedException, IOException {
 		
 		log = Logger.getLogger("ss");
 		PropertyConfigurator.configure("log4j.properties");
-	
+	if(bowserName.endsWith("chrome")) {
 	System.setProperty("webdriver.chrome.driver", ".//drivers////chromedriver.exe");
 	   driver = new ChromeDriver();
+	}else if(bowserName.endsWith("Firefox")) {
+		System.setProperty("webdriver.gecko.driver", ".//drivers////geckodriver.exe");
+		   driver = new ChromeDriver();
+	}
 		driver.get("https://google.com/");
 		driver.get("https://kite.zerodha.com/?next=%2Fdashboard");
 		 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
@@ -53,29 +57,29 @@ Logger log;
 		   x.password();
 		   Thread.sleep(2000);
 		   //s.screen();
-//		   log.info("password entered");
-//		   x.Login();
-//		   Thread.sleep(2000);
-//		   //s.screen();
-//		  log.info("succesfully logged in");
-//		  
-//		   Thread.sleep(5000);
-//		   
-//		   x.pin();
-//		  // s.screen();
-//		  log.info("Pin entered");
-//		   x.Pinclick();
-//		   log.info("welcome to homepage");
-//		  
-//		  //s.screen();
-//		   
-//		  
-//		   System.out.println("14.Screenshot has been taken");
+		   log.info("password entered");
+		   x.Login();
+		   Thread.sleep(2000);
+		   //s.screen();
+		  log.info("succesfully logged in");
+		  
+		   Thread.sleep(5000);
+		   
+		   x.pin();
+		  // s.screen();
+		  log.info("Pin entered");
+		   x.Pinclick();
+		   log.info("welcome to homepage");
+		  
+		  //s.screen();
+		   
+		  
+		   System.out.println("14.Screenshot has been taken");
 	 }   
 		  @Test
 		  public   void LoginPagefunctionality() {
 			  
-		  String ExpectedText = "one";
+		  String ExpectedText = "none";
 		  String ActualText1 = "none";
 		   
 		  Assert.assertEquals(ExpectedText, ActualText1);

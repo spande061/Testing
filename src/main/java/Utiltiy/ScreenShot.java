@@ -32,7 +32,7 @@ public class ScreenShot  {
 	    TakesScreenshot s = (TakesScreenshot)driver;
 	    
 	    File source = s.getScreenshotAs(OutputType.FILE);
-	    File dest = new File(".//Screenshot//"+NewDate+".jpg");
+	    File dest = new File(".//Screenshots//"+NewDate+".jpg");
 	    FileHandler.copy(source, dest);
 		
 	}

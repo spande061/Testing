@@ -5,8 +5,11 @@ import java.io.IOException;
 import org.openqa.selenium.WebDriver;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
+import org.testng.internal.TestResult;
 
 import com.Kite.TestCaseclasses.TC01KiteLoginPageFunctionality;
+import com.Sausdemo.TseCaseclasses.TC01SausLoginPageFunctionality;
+import com.insta.Testclasses.LoginPageFunctionality;
 
 public class Listeners implements ITestListener {
 	
@@ -23,7 +26,7 @@ public class Listeners implements ITestListener {
 
 	public void onTestFailure(ITestResult result)  {
 		System.out.println("Test Is failed hence we have taken screenshot");
-		this.driver = ((TC01KiteLoginPageFunctionality)result.getInstance()).driver;
+		this.driver = (( LoginPageFunctionality)result.getInstance()).driver;
 		ScreenShot uc = new ScreenShot(driver);
 		try {
 			uc.screen();
@@ -34,7 +37,4 @@ public class Listeners implements ITestListener {
 		}
 		
 	}
-	
-	
-	
 }

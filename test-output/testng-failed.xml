@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.Kite.TestCaseclasses.TC01KiteLoginPageFunctionality">
+      <class name="com.insta.Testclasses.LoginPageFunctionality">
         <methods>
-          <include name="LoginPagefunctionality"/>
-          <include name="SetUp"/>
-          <include name="TearOut"/>
+          <include name="SetUpMethod"/>
+          <include name="TearDownMethod"/>
+          <include name="LoginPageFunctionlait"/>
         </methods>
-      </class> <!-- com.Kite.TestCaseclasses.TC01KiteLoginPageFunctionality -->
+      </class> <!-- com.insta.Testclasses.LoginPageFunctionality -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

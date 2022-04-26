@@ -210,3 +210,159 @@
 2022-04-15 15:00:58,223  INFO [main] ss:52 - Username entered
 2022-04-15 15:28:22,817  INFO [main] ss:47 - URL opened
 2022-04-15 15:28:22,929  INFO [main] ss:52 - Username entered
+2022-04-17 23:41:17,408  INFO [TestNG-test=Test-3] ss:47 - URL opened
+2022-04-17 23:41:17,536  INFO [TestNG-test=Test-3] ss:52 - Username entered
+2022-04-17 23:42:34,809  INFO [TestNG-test=Test-3] ss:47 - URL opened
+2022-04-17 23:42:34,971  INFO [TestNG-test=Test-3] ss:52 - Username entered
+2022-04-17 23:42:37,165  INFO [TestNG-test=Test-3] ss:56 - password entered
+2022-04-17 23:42:39,329  INFO [TestNG-test=Test-3] ss:60 - succesfully logged in
+2022-04-17 23:42:44,406  INFO [TestNG-test=Test-3] ss:66 - Pin entered
+2022-04-17 23:42:44,468  INFO [TestNG-test=Test-3] ss:68 - welcome to homepage
+2022-04-17 23:53:03,933  INFO [TestNG-test=chrome-2] ss:43 - url entered
+2022-04-17 23:53:07,403  INFO [TestNG-test=chrome-3] ss:51 - URL opened
+2022-04-17 23:53:07,625  INFO [TestNG-test=chrome-3] ss:56 - Username entered
+2022-04-17 23:53:09,826  INFO [TestNG-test=chrome-3] ss:60 - password entered
+2022-04-17 23:53:10,897  INFO [TestNG-test=chrome-1] ss:45 - URL opened
+2022-04-17 23:53:11,019  INFO [TestNG-test=chrome-1] ss:50 - Username entered
+2022-04-17 23:53:11,206  INFO [TestNG-test=chrome-1] ss:54 - password entered
+2022-04-17 23:53:11,343  INFO [TestNG-test=chrome-1] ss:58 - succesfully logged in
+2022-04-17 23:53:12,101  INFO [TestNG-test=chrome-3] ss:64 - succesfully logged in
+2022-04-17 23:53:16,453  INFO [TestNG-test=chrome-1] ss:64 - Pin entered
+2022-04-17 23:53:16,565  INFO [TestNG-test=chrome-1] ss:66 - welcome to homepage
+2022-04-17 23:53:17,231  INFO [TestNG-test=chrome-3] ss:70 - Pin entered
+2022-04-17 23:53:17,331  INFO [TestNG-test=chrome-3] ss:72 - welcome to homepage
+2022-04-17 23:53:44,559  INFO [TestNG-test=Firefox-3] ss:51 - URL opened
+2022-04-17 23:53:44,798  INFO [TestNG-test=Firefox-3] ss:56 - Username entered
+2022-04-17 23:53:47,059  INFO [TestNG-test=Firefox-3] ss:60 - password entered
+2022-04-17 23:53:49,520  INFO [TestNG-test=Firefox-3] ss:64 - succesfully logged in
+2022-04-17 23:53:50,352  INFO [TestNG-test=Firefox-2] ss:43 - url entered
+2022-04-17 23:53:54,243  INFO [TestNG-test=Firefox-1] ss:45 - URL opened
+2022-04-17 23:53:54,367  INFO [TestNG-test=Firefox-1] ss:50 - Username entered
+2022-04-17 23:53:54,460  INFO [TestNG-test=Firefox-1] ss:54 - password entered
+2022-04-17 23:53:54,647  INFO [TestNG-test=Firefox-3] ss:70 - Pin entered
+2022-04-17 23:53:54,768  INFO [TestNG-test=Firefox-3] ss:72 - welcome to homepage
+2022-04-17 23:53:55,316  INFO [TestNG-test=Firefox-1] ss:58 - succesfully logged in
+2022-04-17 23:54:00,380  INFO [TestNG-test=Firefox-1] ss:64 - Pin entered
+2022-04-17 23:54:01,109  INFO [TestNG-test=Firefox-1] ss:66 - welcome to homepage
+2022-04-17 23:55:46,347  INFO [main] ss:51 - URL opened
+2022-04-17 23:55:46,474  INFO [main] ss:56 - Username entered
+2022-04-17 23:55:48,618  INFO [main] ss:60 - password entered
+2022-04-17 23:55:50,737  INFO [main] ss:64 - succesfully logged in
+2022-04-17 23:55:55,840  INFO [main] ss:70 - Pin entered
+2022-04-17 23:55:55,911  INFO [main] ss:72 - welcome to homepage
+2022-04-17 23:56:02,198  INFO [main] ss:51 - URL opened
+2022-04-17 23:56:02,311  INFO [main] ss:56 - Username entered
+2022-04-17 23:56:04,470  INFO [main] ss:60 - password entered
+2022-04-17 23:56:06,563  INFO [main] ss:64 - succesfully logged in
+2022-04-17 23:56:11,648  INFO [main] ss:70 - Pin entered
+2022-04-17 23:56:11,715  INFO [main] ss:72 - welcome to homepage
+2022-04-20 12:57:06,639  INFO [main] ss:32 - opened URL
+2022-04-20 12:57:07,644  INFO [main] ss:35 - username entered
+2022-04-20 12:57:08,012  INFO [main] ss:37 - password entred
+2022-04-20 12:57:08,391  INFO [main] ss:39 - Logged in succesfully
+2022-04-20 12:57:10,588  INFO [main] ss:55 - browser closed
+2022-04-20 13:06:33,032  INFO [main] ss:32 - opened URL
+2022-04-20 13:06:33,294  INFO [main] ss:35 - username entered
+2022-04-20 13:06:33,463  INFO [main] ss:37 - password entred
+2022-04-20 13:06:33,806  INFO [main] ss:39 - Logged in succesfully
+2022-04-20 13:06:34,703  INFO [main] ss:55 - browser closed
+2022-04-20 13:08:39,021  INFO [main] ss:35 - URl Opened
+2022-04-20 13:08:39,306  INFO [main] ss:38 - Usernmae entered
+2022-04-20 13:08:39,506  INFO [main] ss:40 - password enetered
+2022-04-20 13:08:39,703  INFO [main] ss:42 - Logged in succesfully
+2022-04-20 13:08:39,781  INFO [main] ss:46 - dropdown selected
+2022-04-20 13:08:39,863  INFO [main] ss:48 - logged out succesfully
+2022-04-20 13:09:55,898  INFO [main] ss:35 - URl Opened
+2022-04-20 13:09:56,186  INFO [main] ss:38 - Usernmae entered
+2022-04-20 13:09:56,355  INFO [main] ss:40 - password enetered
+2022-04-20 13:09:56,525  INFO [main] ss:42 - Logged in succesfully
+2022-04-20 13:09:56,628  INFO [main] ss:46 - dropdown selected
+2022-04-20 13:09:56,747  INFO [main] ss:48 - logged out succesfully
+2022-04-20 13:11:17,491  INFO [main] ss:32 - opened URL
+2022-04-20 13:11:18,077  INFO [main] ss:35 - username entered
+2022-04-20 13:11:18,269  INFO [main] ss:37 - password entred
+2022-04-20 13:11:18,480  INFO [main] ss:39 - Logged in succesfully
+2022-04-20 13:11:19,487  INFO [main] ss:55 - browser closed
+2022-04-20 19:23:35,821  INFO [main] ss:32 - opened URL
+2022-04-20 19:23:36,482  INFO [main] ss:35 - username entered
+2022-04-20 19:23:36,750  INFO [main] ss:37 - password entred
+2022-04-20 19:23:36,971  INFO [main] ss:39 - Logged in succesfully
+2022-04-20 19:23:38,163  INFO [main] ss:55 - browser closed
+2022-04-26 13:06:06,773  INFO [main] ss:29 - URl Opened
+2022-04-26 13:06:07,559  INFO [main] ss:34 - UserName entered
+2022-04-26 13:06:07,744  INFO [main] ss:36 - Password enetered
+2022-04-26 13:06:07,881  INFO [main] ss:38 - Succesfully logged in
+2022-04-26 13:06:07,990  INFO [main] ss:48 - Test case passed
+2022-04-26 13:06:08,732  INFO [main] ss:55 - url closed
+2022-04-26 13:08:30,619  INFO [main] ss:30 - URl Opened
+2022-04-26 13:08:31,245  INFO [main] ss:35 - UserName entered
+2022-04-26 13:08:31,420  INFO [main] ss:37 - Password enetered
+2022-04-26 13:08:31,534  INFO [main] ss:39 - Succesfully logged in
+2022-04-26 13:08:31,640  INFO [main] ss:49 - Test case passed
+2022-04-26 13:08:32,291  INFO [main] ss:56 - url closed
+2022-04-26 13:08:56,626  INFO [main] ss:30 - URl Opened
+2022-04-26 13:08:57,247  INFO [main] ss:35 - UserName entered
+2022-04-26 13:08:57,400  INFO [main] ss:37 - Password enetered
+2022-04-26 13:08:57,603  INFO [main] ss:39 - Succesfully logged in
+2022-04-26 13:10:31,800  INFO [main] ss:30 - URl Opened
+2022-04-26 13:10:32,526  INFO [main] ss:35 - UserName entered
+2022-04-26 13:10:32,690  INFO [main] ss:37 - Password enetered
+2022-04-26 13:10:32,814  INFO [main] ss:39 - Succesfully logged in
+2022-04-26 13:11:32,445  INFO [main] ss:35 - URl Opened
+2022-04-26 13:11:32,877  INFO [main] ss:38 - Usernmae entered
+2022-04-26 13:11:33,059  INFO [main] ss:40 - password enetered
+2022-04-26 13:11:33,290  INFO [main] ss:42 - Logged in succesfully
+2022-04-26 13:11:33,391  INFO [main] ss:46 - dropdown selected
+2022-04-26 13:11:33,512  INFO [main] ss:48 - logged out succesfully
+2022-04-26 13:13:42,227  INFO [main] ss:30 - URl Opened
+2022-04-26 13:13:42,944  INFO [main] ss:35 - UserName entered
+2022-04-26 13:13:43,103  INFO [main] ss:37 - Password enetered
+2022-04-26 13:13:43,214  INFO [main] ss:39 - Succesfully logged in
+2022-04-26 13:13:44,022  INFO [main] ss:56 - url closed
+2022-04-26 13:14:57,657  INFO [main] ss:30 - URl Opened
+2022-04-26 13:14:58,465  INFO [main] ss:35 - UserName entered
+2022-04-26 13:14:58,662  INFO [main] ss:37 - Password enetered
+2022-04-26 13:14:58,858  INFO [main] ss:39 - Succesfully logged in
+2022-04-26 13:14:59,929  INFO [main] ss:56 - url closed
+2022-04-26 13:34:14,211  INFO [main] ss:30 - URl Opened
+2022-04-26 13:34:14,958  INFO [main] ss:35 - UserName entered
+2022-04-26 13:34:15,106  INFO [main] ss:37 - Password enetered
+2022-04-26 13:34:15,223  INFO [main] ss:39 - Succesfully logged in
+2022-04-26 13:36:28,937  INFO [main] ss:30 - URl Opened
+2022-04-26 13:36:29,682  INFO [main] ss:35 - UserName entered
+2022-04-26 13:36:29,842  INFO [main] ss:37 - Password enetered
+2022-04-26 13:36:29,961  INFO [main] ss:39 - Succesfully logged in
+2022-04-26 13:38:09,546  INFO [main] ss:30 - URl Opened
+2022-04-26 13:38:10,353  INFO [main] ss:35 - UserName entered
+2022-04-26 13:38:10,522  INFO [main] ss:37 - Password enetered
+2022-04-26 13:38:10,654  INFO [main] ss:39 - Succesfully logged in
+2022-04-26 13:38:41,991  INFO [main] ss:61 - url closed
+2022-04-26 13:39:05,459  INFO [main] ss:30 - URl Opened
+2022-04-26 13:39:06,117  INFO [main] ss:35 - UserName entered
+2022-04-26 13:39:06,340  INFO [main] ss:37 - Password enetered
+2022-04-26 13:39:06,464  INFO [main] ss:39 - Succesfully logged in
+2022-04-26 13:39:39,006  INFO [main] ss:61 - url closed
+2022-04-26 13:42:21,429  INFO [main] ss:30 - URl Opened
+2022-04-26 13:42:21,697  INFO [main] ss:35 - UserName entered
+2022-04-26 13:42:21,862  INFO [main] ss:37 - Password enetered
+2022-04-26 13:42:21,962  INFO [main] ss:39 - Succesfully logged in
+2022-04-26 13:43:22,196  INFO [main] ss:62 - url closed
+2022-04-26 13:46:17,343  INFO [main] ss:30 - URl Opened
+2022-04-26 13:46:17,596  INFO [main] ss:35 - UserName entered
+2022-04-26 13:46:17,749  INFO [main] ss:37 - Password enetered
+2022-04-26 13:46:17,850  INFO [main] ss:39 - Succesfully logged in
+2022-04-26 13:46:58,973  INFO [main] ss:65 - url closed
+2022-04-26 13:47:03,845  INFO [main] ss:30 - URl Opened
+2022-04-26 13:47:04,546  INFO [main] ss:35 - UserName entered
+2022-04-26 13:47:04,693  INFO [main] ss:37 - Password enetered
+2022-04-26 13:47:04,798  INFO [main] ss:39 - Succesfully logged in
+2022-04-26 13:47:15,324  INFO [main] ss:65 - url closed
+2022-04-26 13:47:20,977  INFO [main] ss:30 - URl Opened
+2022-04-26 13:47:21,691  INFO [main] ss:35 - UserName entered
+2022-04-26 13:47:21,856  INFO [main] ss:37 - Password enetered
+2022-04-26 13:47:21,957  INFO [main] ss:39 - Succesfully logged in
+2022-04-26 13:47:35,986  INFO [main] ss:65 - url closed
+2022-04-26 13:47:41,105  INFO [main] ss:30 - URl Opened
+2022-04-26 13:47:41,631  INFO [main] ss:35 - UserName entered
+2022-04-26 13:47:41,789  INFO [main] ss:37 - Password enetered
+2022-04-26 13:47:41,881  INFO [main] ss:39 - Succesfully logged in

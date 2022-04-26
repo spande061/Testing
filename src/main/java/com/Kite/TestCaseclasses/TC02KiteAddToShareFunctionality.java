@@ -30,10 +30,10 @@ public class TC02KiteAddToShareFunctionality {
 			
 			if(browserName.equals("chrome")) {
 				
-				System.setProperty("webdriver.chrome.driver", "C:\\\\Users\\\\Admin\\\\Desktop\\\\selenium\\\\\\\\\\\\\\\\chromedriver.exe");
+				System.setProperty("webdriver.chrome.driver", ".drivers//chromedriver.exe");
 				 driver = new ChromeDriver(); 
 			}else if(browserName.equals("Firefox")) {
-				System.setProperty("webdriver.gecko.driver", "C:\\Users\\Admin\\Desktop\\selenium\\Firefox\\geckodriver.exe\\");
+				System.setProperty("webdriver.gecko.driver", ".drivers//geckodriver.exe");
 				 driver = new FirefoxDriver();
 			}else {
 				System.out.println("Show the error");

@@ -46,7 +46,7 @@ public class KiteLoginPage {
 	}
 
 	  public void password() {
-		  password.sendKeys("976432066");
+		  password.sendKeys("9764320665");
 	  }
 
      public void Login() {
